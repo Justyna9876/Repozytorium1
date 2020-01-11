@@ -1,5 +1,3 @@
-to jest początek moich notatek
-
 ===============ROZDZIAŁ 1===========
 Git jest systemem kontroli wersji
 pozwala na zdalne pracowanie z dokumentami
